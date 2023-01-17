@@ -100,10 +100,9 @@ Nice-to-haves:
 ### Testing
 * Vitest
 * Jest
-### Version Control
+### DevOps
 * git
 * GitHub
-### Code Editor
 * Visual Studio Code
 ### Design Tools
 * Figma
