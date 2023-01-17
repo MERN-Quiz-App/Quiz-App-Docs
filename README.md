@@ -71,14 +71,40 @@ Nice-to-haves:
 ## Dataflow diagram
 
 ## Application Architecture Diagram
+![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.jpg)
 
 ## Wireframe screenshots
 
 ## Trello screenshots
 
 ## TECH STACK
-1. HTML 
-2. React
-3. Express
-4. NodeJS
-5. MongoDB
+### Front-end
+* HTML
+* CSS
+* JavaScript
+* React
+### Back-end
+* Express
+* Node.js
+### Object Data Modeling
+* Mongoose
+### Database
+* MongoDB
+### Deployment 
+* Netlify (?!)
+* Railway
+### Project Management Tools
+* Trello
+* Google Docs
+* Discord
+### Testing
+* Vitest
+* Jest
+### Version Control
+* git
+* GitHub
+### Code Editor
+* Visual Studio Code
+### Design Tools
+* Figma
+
