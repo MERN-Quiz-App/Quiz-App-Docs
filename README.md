@@ -15,16 +15,6 @@ The purpose of this application is to provide an alternative way to learn and re
 
 
 ## FUNCTIONALITY/FEATURES
-* Take a quiz (members and guests)
-* Make a quiz (log-in required)
-* Quizes are multiple choice
-* Quiz has a timer for each question. If time runs out 0 points for that question
-* Quiz will tell you how many questions you got correct at the end
-* Quizes organised into categories
-* Badges/trophies for users for getting 100% on a quiz. Icon relates to quiz category
-* Members login for those who want to get leaderboard and stats. Guest (no need to login) can just play
-* Leaderboard/member stats
-
 MVP features and functionalities
 * Take a quiz:  
   - Choose a category  
@@ -52,8 +42,7 @@ Nice-to-haves:
 * Students who want to practise knowledge learned in class or to prepare for a test
 * Teachers who want to have a fun way for their students to go through class's materials and test the students' knowledge 
 
-
-## USER STORIE
+## USER STORIES
 
 ### USER STORY 1 : Application Architecture Diagram (MVP)
 ### USER STORY 2 : Create Wire frame (MVP)
@@ -72,6 +61,7 @@ Nice-to-haves:
 
 ## Application Architecture Diagram
 ![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.jpg)
+
 
 ## Wireframe screenshots
 
@@ -106,4 +96,3 @@ Nice-to-haves:
 * Visual Studio Code
 ### Design Tools
 * Figma
-
