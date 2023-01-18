@@ -71,27 +71,44 @@ To better understand our target audience User Personas were created so that we c
 ### USER STORY : Environment setup (MVP)
     Setting up the environment for project. Including the git repo, installing the dependecies etc.
 ### USER STORY : Log-in
+<details>
      1. As a user, I want to have the ability to login to the Quiz application by passing my username and password.
      2. As a user, I want to have the ability to be denied access to the Quiz application when I try to login with incorrect credentials.
+</details>
+
 ### USER STORY : Route:Quiz Data Preparation (MVP)
     Prepare the initial data for the quiz application for testing purposes.
 ### USER STORY : Route:Take a Quiz (MVP)
+<details>
      1. As a user, I want to be able to explore multiple categories of quizes
      2. As a user, I want to have the ability to take quizes from any chosen category.
      3. As a user, I want to have the ability to see the time countdown for completing each quiz question.
      4. As a user, I want to have the ability to submit each questions before the time countdown completes.
      5. As a user, I want to have the ability to have the quiz questions to be submited automatically when the time countdown becomes zero.
      6. As a user, I want to have the ability to see the result of the quiz attempt. 
+</details>
+
 ### USER STORY : Route:Create Quiz Category
+<details>
      1. As a user, I want to have the the ability to create new quiz category.
      2. As a user, I want to have the ability to upload a category image to set against the new quiz category created.
+<details/>
+
 ### USER STORY : Route:Create Quiz Questions
+<details>
      1. As a user, I want to have the ability to create new quiz questions for existing categories.
      2. As a user, I want to have the ability to create new quiz questions for new categories created.
+</details>
+
 ### USER STORY : Route:Quiz Leaderboard & Stats
+<details>
      1. As a user who has logged in, I want to have the ability to view the leaderboard and stats of my quiz performance.
+</details>
+
 ### USER STORY : Pop up messages for Quiz wins
+<details>
      1. As a user, I want to have the ability to get badges or pop messages as a way to celebrate the winning of quiz challenge.
+</details>
 
 ## Dataflow diagram
 
