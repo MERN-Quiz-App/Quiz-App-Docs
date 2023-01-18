@@ -25,26 +25,66 @@ This fun quiz game app  primarily focus on students, to help them gain general k
 * Leaderboard/member stats
   
 
-
 ## TARGET AUDIENCE
-Students and quiz enthusiasts
+* Quiz enthusiasts who enjoy playing informational games and learning new things
+* Students who want to practise knowledge learned in class or to prepare for a test
+* Teachers who want to have a fun way for their students to go through class's materials and test the students' knowledge
+
+## USER STORIES
+## STAGE 1
+### TARGET AUDIENCE :
+    1. Quiz enthusiasts -
+       1. As a quiz enthusiast, I want to be able to play informational games and learning new things
+       2. As a quiz enthusiast, I want to be able to explore quiz's from various quiz categories.
+       3. As a quiz enthusiast, I want to be able to create new quiz questions for existing categories.
+       4. As a quiz enthusiast, I want to be able to create new quiz categories and questions for the new category of the quiz.
+
+    2. Students -
+       1. As a student, I want to be able to play quiz's to practice knowledge learned in class or to prepare for a test.
+       2. As a student, I want to be able to explore quiz's from various quiz categories.
+       3. As a student, I want to be able to create new quiz questions for existing categories which can help other students.
+       4. As a student, I want to be able to create new quiz categories and questions for the new category of the quiz which can help other students.
+    3. Teachers - 
+       1. As a teacher, I want to be able to create new quiz questions for existing categories for her class students to study and revise their lessons.
+       2. As a teacher, I want to be able to create new quiz categories and questions for the new category of the quiz for her class students to study and revise their lessons.
+   
+## STAGE 2
+### USER PERSONAS :
+To better understand our target audience User Personas were created so that we could learn more about the goals and needs of our users.
+
+* Quiz enthusiasts who enjoy playing informational games and learning new things.
+* Students who want to practise knowledge learned in class or to prepare for a test
+* Teachers who want to have a fun way for their students to go through class's materials and test the students' knowledge
 
 
-
-## USER STORIE
-
-### USER STORY 1 : Application Architecture Diagram (MVP)
-### USER STORY 2 : Create Wire frame (MVP)
-### USER STORY 3 : Environment setup (MVP)
-### USER STORY 4 : Login
-### USER STORY 5 : Route:Take a Quiz (MVP)
-### USER STORY 6 : Route:Quiz timer 
-### USER STORY 7 : Route:Quiz Data Preparation (MVP)
-### USER STORY 8 : Route:Quiz result (MVP)
-### USER STORY 9 : Route:Quiz Leaderboard & Stats
- 
-
-
+### USER STORY : Application Architecture Diagram (MVP)
+    Create a visual representation of the various components, modules, and interfaces that make up a software application and how they interact with each other. The AAD will include elements such as the user interface, business logic, data storage, and external systems and services.
+### USER STORY : Create Wire frame (MVP)
+    Create a low-fidelity, visual representation of a user interface (UI) design, typically used during the early stages of the design process. The wireframe will be a simple, blueprint-like representation of the layout and functionality of a website or application, showing the placement of elements such as text, images, and buttons
+### USER STORY : Environment setup (MVP)
+    Setting up the environment for project. Including the git repo, installing the dependecies etc.
+### USER STORY : Log-in
+     1. As a user, I want to have the ability to login to the Quiz application by passing my username and password.
+     2. As a user, I want to have the ability to be denied access to the Quiz application when I try to login with incorrect credentials.
+### USER STORY : Route:Quiz Data Preparation (MVP)
+    Prepare the initial data for the quiz application for testing purposes.
+### USER STORY : Route:Take a Quiz (MVP)
+     1. As a user, I want to be able to explore multiple categories of quizes
+     2. As a user, I want to have the ability to take quizes from any chosen category.
+     3. As a user, I want to have the ability to see the time countdown for completing each quiz question.
+     4. As a user, I want to have the ability to submit each questions before the time countdown completes.
+     5. As a user, I want to have the ability to have the quiz questions to be submited automatically when the time countdown becomes zero.
+     6. As a user, I want to have the ability to see the result of the quiz attempt. 
+### USER STORY : Route:Create Quiz Category
+     1. As a user, I want to have the the ability to create new quiz category.
+     2. As a user, I want to have the ability to upload a category image to set against the new quiz category created.
+### USER STORY : Route:Create Quiz Questions
+     1. As a user, I want to have the ability to create new quiz questions for existing categories.
+     2. As a user, I want to have the ability to create new quiz questions for new categories created.
+### USER STORY : Route:Quiz Leaderboard & Stats
+     1. As a user who has logged in, I want to have the ability to view the leaderboard and stats of my quiz performance.
+### USER STORY : Pop up messages for Quiz wins
+     1. As a user, I want to have the ability to get badges or pop messages as a way to celebrate the winning of quiz challenge.
 
 ## Dataflow diagram
 
