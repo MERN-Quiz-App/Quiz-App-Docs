@@ -102,7 +102,8 @@ Prepare the initial data for the quiz application for testing purposes.
 * As a user, I want to have the ability to see the time countdown for completing each quiz question.
 * As a user, I want to have the ability to submit each questions before the time countdown completes.
 * As a user, I want to have the ability to have the quiz questions to be submited automatically when the time countdown becomes zero.
-* As a user, I want to have the ability to see the result of the quiz attempt. 
+* As a user, I want to have the ability to see the result of the quiz attempt.
+
 </details>
 
 ### USER STORY : Route:Create Quiz Category
@@ -111,7 +112,7 @@ Prepare the initial data for the quiz application for testing purposes.
 * As a user, I want to have the the ability to create new quiz category.
 * As a user, I want to have the ability to upload a category image to set against the new quiz category created.
 
-<details/>
+</details>
 
 ### USER STORY : Route:Create Quiz Questions
 <details>
