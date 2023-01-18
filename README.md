@@ -35,10 +35,12 @@ This fun quiz game app  primarily focus on students, to help them gain general k
 ### TARGET AUDIENCE :
 <details>
 <summary><strong>1.Quiz enthusiasts</strong></summary>
-       1. As a quiz enthusiast, I want to be able to play informational games and learning new things.
-       2. As a quiz enthusiast, I want to be able to explore quiz's from various quiz categories.
-       3. As a quiz enthusiast, I want to be able to create new quiz questions for existing categories.
-       4. As a quiz enthusiast, I want to be able to create new quiz categories and questions for the new category of the quiz.
+
+* As a quiz enthusiast, I want to be able to play informational games and learning new things.
+* As a quiz enthusiast, I want to be able to explore quiz's from various quiz categories.
+* As a quiz enthusiast, I want to be able to create new quiz questions for existing categories.
+* As a quiz enthusiast, I want to be able to create new quiz categories and questions for the new category of the quiz.
+
 </details>
 
 <details>
