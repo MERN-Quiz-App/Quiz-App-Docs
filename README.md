@@ -33,23 +33,17 @@ This fun quiz game app  primarily focus on students, to help them gain general k
 ## USER STORIES
 ## STAGE 1
 ### TARGET AUDIENCE :
-
 <details>
-
 <summary><strong>1.Quiz enthusiasts</strong></summary>
-
-*As a quiz enthusiast, I want to be able to play informational games and learning new things
-*As a quiz enthusiast, I want to be able to explore quiz's from various quiz categories.
-*As a quiz enthusiast, I want to be able to create new quiz questions for existing categories.
-*As a quiz enthusiast, I want to be able to create new quiz categories and questions for the new category of the quiz.
-  
+       1. As a quiz enthusiast, I want to be able to play informational games and learning new things.
+       2. As a quiz enthusiast, I want to be able to explore quiz's from various quiz categories.
+       3. As a quiz enthusiast, I want to be able to create new quiz questions for existing categories.
+       4. As a quiz enthusiast, I want to be able to create new quiz categories and questions for the new category of the quiz.
 </details>
 
 <details>
-
-<summary><strong>2.Students</strong></summary>
-
-- As a student, I want to be able to play quiz's to practice knowledge learned in class or to prepare for a test.
+<summary><strong>2.Students</strong></summary> 
+       1. As a student, I want to be able to play quiz's to practice knowledge learned in class or to prepare for a test.
        2. As a student, I want to be able to explore quiz's from various quiz categories.
        3. As a student, I want to be able to create new quiz questions for existing categories which can help other students.
        4. As a student, I want to be able to create new quiz categories and questions for the new category of the quiz which can help other students.
@@ -125,6 +119,7 @@ To better understand our target audience User Personas were created so that we c
 ## Trello screenshots
 
 ## TECH STACK
+
 1. HTML 
 2. React
 3. Express
