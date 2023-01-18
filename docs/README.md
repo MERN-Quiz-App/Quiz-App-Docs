@@ -33,20 +33,27 @@ This fun quiz game app  primarily focus on students, to help them gain general k
 ## USER STORIES
 ## STAGE 1
 ### TARGET AUDIENCE :
-    1. Quiz enthusiasts -
+<details>
+<summary><strong>1.Quiz enthusiasts</strong></summary> 
        1. As a quiz enthusiast, I want to be able to play informational games and learning new things
        2. As a quiz enthusiast, I want to be able to explore quiz's from various quiz categories.
        3. As a quiz enthusiast, I want to be able to create new quiz questions for existing categories.
        4. As a quiz enthusiast, I want to be able to create new quiz categories and questions for the new category of the quiz.
+</details>
 
-    2. Students -
+<details>
+<summary><strong>2.Students</strong></summary> 
        1. As a student, I want to be able to play quiz's to practice knowledge learned in class or to prepare for a test.
        2. As a student, I want to be able to explore quiz's from various quiz categories.
        3. As a student, I want to be able to create new quiz questions for existing categories which can help other students.
        4. As a student, I want to be able to create new quiz categories and questions for the new category of the quiz which can help other students.
-    3. Teachers - 
-       1. As a teacher, I want to be able to create new quiz questions for existing categories for her class students to study and revise their lessons.
-       2. As a teacher, I want to be able to create new quiz categories and questions for the new category of the quiz for her class students to study and revise their lessons.
+</details>
+
+<details>
+<summary><strong>3.Teachers</strong></summary>
+       1. As a teacher, I want to be able to create new quiz questions for existing categories for my class students to study and revise their lessons.
+       2. As a teacher, I want to be able to create new quiz categories and questions for the new category of the quiz for my class students to study and revise their lessons.
+</details>
    
 ## STAGE 2
 ### USER PERSONAS :
