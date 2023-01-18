@@ -9,29 +9,40 @@
 
 
 ## PURPOSE
-This fun quiz game app  primarily focus on students, to help them gain general knowledge on multiple subjects. The users of this quiz app can access different categoies of quizes and enhance their knowledge on the subjects.
+The purpose of this application is to provide an alternative way to learn and revise knowledge on a wide range of topics.   
+
 
 
 
 ## FUNCTIONALITY/FEATURES
-* Take a quiz (members and guests)
-* Make a quiz (log-in required)
-* Quizes are multiple choice
-* Quiz has a timer for each question. If time runs out 0 points for that question
-* Quiz will tell you how many questions you got correct at the end
-* Quizes organised into categories
-* Badges/trophies for users for getting 100% on a quiz. Icon relates to quiz category
-* Members login for those who want to get leaderboard and stats. Guest (no need to login) can just play
-* Leaderboard/member stats
+MVP features and functionalities
+* Take a quiz:  
+  - Choose a category  
+  - Choose a quiz  
+  - Quit any time
+  - Skip to the next question before timer runs out
+  - See total score at the end of the quiz 
+  - See the correct and incorrect answers
+  - Acquire badges/trophies for high achievements
   
+* Make a quiz:
+  - Choose an exisiting category 
+  - Create a new category
+  - Add questions and answers
+  - Save and exit when finish
+  - Quit any time
+
+Nice-to-haves:
+* Sign up and log in 
+* Leaderboard
 
 
 ## TARGET AUDIENCE
-Students and quiz enthusiasts
+* Quiz enthusiasts who enjoy playing informational games and learning new things
+* Students who want to practise knowledge learned in class or to prepare for a test
+* Teachers who want to have a fun way for their students to go through class's materials and test the students' knowledge 
 
-
-
-## USER STORIE
+## USER STORIES
 
 ### USER STORY 1 : Application Architecture Diagram (MVP)
 ### USER STORY 2 : Create Wire frame (MVP)
@@ -49,14 +60,39 @@ Students and quiz enthusiasts
 ## Dataflow diagram
 
 ## Application Architecture Diagram
+![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.jpg)
+
 
 ## Wireframe screenshots
 
 ## Trello screenshots
 
 ## TECH STACK
-1. HTML 
-2. React
-3. Express
-4. NodeJS
-5. MongoDB
+### Front-end
+* HTML
+* CSS
+* JavaScript
+* React
+### Back-end
+* Express
+* Node.js
+### Object Data Modeling
+* Mongoose
+### Database
+* MongoDB
+### Deployment 
+* Netlify (?!)
+* Railway
+### Project Management Tools
+* Trello
+* Google Docs
+* Discord
+### Testing
+* Vitest
+* Jest
+### DevOps
+* git
+* GitHub
+* Visual Studio Code
+### Design Tools
+* Figma
