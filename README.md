@@ -46,7 +46,7 @@ Nice-to-haves:
 ### TARGET AUDIENCE :
 <details>
 
-<summary><strong>1.General Users of Quiz App</strong></summary>
+<summary><strong>1. General Users of Quiz App</strong></summary>
 
 * As a general user of the quiz app, I want to be able to play fasinating quizzes.
 * As a general user of the quiz app, I want to be able to explore quizzes from various quiz categories.
@@ -57,7 +57,7 @@ Nice-to-haves:
 
 <details>
 
-<summary><strong>1.Quiz enthusiasts</strong></summary>
+<summary><strong>2. Quiz enthusiasts</strong></summary>
 
 * As a quiz enthusiast, I want to be able to play quizzes to enhance my knowlege on various subjects to prepare for quiz competitions.
 * As a quiz enthusiast, I want to be able to share my quiz knowledge with other collegues who are interested in quizzes by creating new quiz questions.
@@ -65,7 +65,7 @@ Nice-to-haves:
 </details>
 
 <details>
-<summary><strong>2.Students</strong></summary> 
+<summary><strong>3. Students</strong></summary> 
 
 * As a student, I want to be able to play quizzes to practice knowledge learned in class or to prepare for a test.
 * As a student, I want to be able to create new quiz questions for existing categories which can help other students.
@@ -73,7 +73,7 @@ Nice-to-haves:
 </details>
 
 <details>
-<summary><strong>3.Teachers</strong></summary>
+<summary><strong>4. Teachers</strong></summary>
 
 * As a teacher, I want to be able to create new quiz questions for my class students to study and revise their lessons. This will help the students to  achieve better scores in exams.
 
