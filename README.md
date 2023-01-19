@@ -9,11 +9,11 @@
 
 ## PURPOSE
 There are three main purposes of this application: 
-1. To provide a fun way to learn new things on a wide range of topics. It's been proven that children (and adults) learn better when they are having fun and happy. Therefore, the application is an effort to encourage learning at all ages.  
+1. The application's first purpose is an education tool to help people learn a fun way. Therefore, the application is an effort to encourage learning for all ages.  
    
-2. To be used as a tool for teaching and assessment. This application is suitable to use in a classroom because its topics can be added, and there is no limits. It is another tool for teachers to make their lessons more interactive and interesting. 
+2. To be used as a resource for teaching and assessment. This application is suitable to use in a classroom to make lessons interactive and interesting. Features such as creating new quizzes under different categories can make the learning experience more customisable.
    
-3. At the end of the day, the application is a game, so it aims to entertain. The user/player can use it as a light-hearted way to wind down, or tas a challenge to their friends.
+3. At the end of the day, the application is a game, so it aims to entertain. The user/player can use it as a light-hearted way to wind down, or as a challenge to their friends.
 
 
 ## FUNCTIONALITY/FEATURES
@@ -33,23 +33,24 @@ MVP features and functionalities
   - Create a new category
   - Specify the number of questions in a quiz
   - Add questions and answers
-  - Save and exit when finish
+  - Save and exit when finished
   - Quit any time
 
 * Edit a quiz:
   - Delete an entire quiz with all its questions and answers
   - Add, edit, delete questions
   - Add, edit, delete answers
-  - Save and exit when finish
+  - Save and exit when finished
 
 Nice-to-haves:
 * Change timer duration for individual question
 * User portal
   - Sign in
+  - Edit user's information
   - Delete account
 * Authorization 
   - Only registered users can create a new quiz 
-  - Only admins and the quiz creator can edit the quiz
+  - Only admins and the quiz creator can edit or delete the quiz
 * Sign up  
  - Sign up with a valid email address and password
 * Leaderboard  
@@ -59,7 +60,6 @@ Nice-to-haves:
 * Quiz enthusiasts who enjoy playing informational games and learning new things
 * Students who want to practise knowledge learned in class or to prepare for a test
 * Teachers who want a fun way to teach or to assess students' knowledge (i.e. homework and tests)
-
 
 ## USER STORIES
 ## STAGE 1
