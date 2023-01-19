@@ -83,7 +83,8 @@ Nice-to-haves:
 ### USER PERSONAS :
 To better understand our target audience User Personas were created so that we could learn more about the goals and needs of our users. The below details were consolidated upon consulting with the the target audience on their goal and experiences in achieving their goals. 
 
-* Quiz enthusiasts
+#### Quiz enthusiasts
+  
 Goals :
 - Being a quiz enthusiast, I am always looking for every opportunity to learn new things and practice my knowledge.
 - I always want to challenge myself and have constant checks on my knowledge level.
@@ -94,7 +95,8 @@ Challenges :
 - It has been very difficult to get a proper application where I can do my practice quiz and check my level of knowledge.
 - There are very less options currently available where I can create my own quizzes.  
 
-* Students 
+#### Students 
+  
 Goals :
 - As a student, I am always keen to gain my knowledge on various school subject and also revise as part exam prep.
 - It is great to have a place where I can compete with the schoolmates and be the best.
@@ -104,7 +106,8 @@ Challenges :
 - The knowledge i get from books are usually tested during exams, the absense of a proper way to test my knowledge regularly, affects my learning and revision. 
 - Showcasing my knowledge and what I have learned from the classes to my teachers are currently only through the periodic exams and assignements.
   
-* Teachers 
+#### Teachers 
+  
 Goals :
 - As a teacher, I am always curious about my students learning curve. 
 - I am looking for a platform where I can set up regular challenges and quiz which can help my student in their learning.
