@@ -7,11 +7,13 @@
 [Youtube link]()
 
 
-
 ## PURPOSE
-The purpose of this application is to provide an alternative way to learn and revise knowledge on a wide range of topics.   
-
-
+There are three main purposes of this application: 
+1. To provide a fun way to learn new things on a wide range of topics. It's been proven that children (and adults) learn better when they are having fun and happy. Therefore, the application is an effort to encourage learning at all ages.  
+   
+2. To be used as a tool for teaching and assessment. This application is suitable to use in a classroom because its topics can be added, and there is no limits. It is another tool for teachers to make their lessons more interactive and interesting. 
+   
+3. At the end of the day, the application is a game, so it aims to entertain. The user/player can use it as a light-hearted way to wind down, or tas a challenge to their friends.
 
 
 ## FUNCTIONALITY/FEATURES
@@ -20,26 +22,44 @@ MVP features and functionalities
   - Choose a category  
   - Choose a quiz  
   - Quit any time
+  - See the quiz progress (i.e. question 5/15)
   - Skip to the next question before timer runs out
   - See total score at the end of the quiz 
   - See the correct and incorrect answers
-  - Acquire badges/trophies for high achievements
+  - Pop-up alert for high achievements
   
 * Make a quiz:
   - Choose an exisiting category 
   - Create a new category
+  - Specify the number of questions in a quiz
   - Add questions and answers
   - Save and exit when finish
   - Quit any time
 
+* Edit a quiz:
+  - Delete an entire quiz with all its questions and answers
+  - Add, edit, delete questions
+  - Add, edit, delete answers
+  - Save and exit when finish
+
 Nice-to-haves:
-* Sign up and log in 
-* Leaderboard
+* Change timer duration for individual question
+* User portal
+  - Sign in
+  - Delete account
+* Authorization 
+  - Only registered users can create a new quiz 
+  - Only admins and the quiz creator can edit the quiz
+* Sign up  
+ - Sign up with a valid email address and password
+* Leaderboard  
+ - View users with high total points
 
 ## TARGET AUDIENCE
 * Quiz enthusiasts who enjoy playing informational games and learning new things
 * Students who want to practise knowledge learned in class or to prepare for a test
-* Teachers who want to have a fun way for their students to go through class's materials and test the students' knowledge
+* Teachers who want a fun way to teach or to assess students' knowledge (i.e. homework and tests)
+
 
 ## USER STORIES
 ## STAGE 1
@@ -184,7 +204,7 @@ Prepare the initial data for the quiz application for testing purposes.
 </details>
 
 ## Dataflow diagram
-
+![Dataflow diagram](docs/Dataflow%20diagram.jpg)
 
 ## Application Architecture Diagram
 ![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.jpg)
@@ -208,7 +228,7 @@ Prepare the initial data for the quiz application for testing purposes.
 ### Database
 * MongoDB
 ### Deployment 
-* Netlify (?!)
+* Netlify
 * Railway
 ### Project Management Tools
 * Trello
