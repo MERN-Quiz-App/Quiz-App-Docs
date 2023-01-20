@@ -13,7 +13,7 @@ There are three main purposes of this application:
    
 2. To be used as a resource for teaching and assessment. This application is suitable to use in a classroom to make lessons interactive and interesting. Features such as creating new quizzes under different categories can make the learning experience more customisable.
    
-3. At the end of the day, the application is a game, so it aims to entertain. The user/player can use it as a light-hearted way to wind down, or as a challenge to their friends.
+3. The last purpose of the application is to entertain. The user/player can use it as a light-hearted way to wind down, or as a challenge to their friends.
 
 
 ## FUNCTIONALITY/FEATURES
