@@ -210,7 +210,7 @@ Prepare the initial data for the quiz application for testing purposes.
 ![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.jpg)
 
 
-## Wireframes
+## Website design
 
 ### Site aesthetics
 
@@ -227,6 +227,39 @@ Coblis, a free online tool at color-blindness.com, was used to see how the websi
 We kept the styling and layout quite simple, with most screens prompting the user to click on a button or object in the centre of the screen to progress. Both symbols and words were used to convey the action the user should take, making the app simple to navigate, especially for younger users.
 
 ### Sitemap
+
+
+### Wireframes
+
+![Home page](docs/Home-page-wireframe.png)
+
+![Take a quiz page](docs/Take-a-quiz-wireframe.png)
+
+![Select a quiz page](docs/Select-a-quiz-wireframe.png)
+
+![Quiz page](docs/Quiz-screen-wireframe.png)
+
+![Result page](docs/Result-screen-wireframe.png)
+
+![Make a quiz page](docs/Make-a-quiz-wireframe.png)
+
+![Add questions page](docs/Add-questions-wireframe.png)
+
+![Edit a quiz page](docs/Edit-a-quiz-wireframe.png)
+
+![Leaderboard](docs/Leaderboard-wireframe.png)
+
+![User login](docs/Login-wireframe.png)
+
+![User sign up](docs/Signup-wireframe.png)
+
+![User profile](docs/User-profile-wireframe.png)
+
+![Admin profile](docs/Admin-profile-wireframe.png)
+
+![Admin select a user page](docs/Admin-select-user-wireframe.png)
+
+![Admin edit/delete a category page](docs/Admin-edit-delete-category-wireframe.png)
 
 ## Trello screenshots
 
