@@ -210,7 +210,23 @@ Prepare the initial data for the quiz application for testing purposes.
 ![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.jpg)
 
 
-## Wireframe screenshots
+## Wireframes
+
+### Site aesthetics
+
+For the colour scheme we chose orange, black and white as the main colours. Orange is associated with energy, optimism and excitement. The quiz application is primarily aimed at a young audience and those who like to play quizzes for fun, using a bright colour like orange conveys the message that the app is a fun environment to learn in and challenge yourself.
+
+![Website colour palette](docs/quiz-app-main-colours.png)
+
+The majority of text on the website is black text on a white background which is a very high contrast ratio (21:1) and therefore easy to read at most sizes. The next most common text is black text on a dark orange background, which according to Adobe's colour accessibility tools is also a high contrast ratio (6.21:1) and clearly readable at most sizes.
+
+Coblis, a free online tool at color-blindness.com, was used to see how the website would look for people with the most common colour blindness - red/green. The text still maintained a high contrast and was easy to read.
+
+![](docs/protanopia-website-screenshot.png)
+
+We kept the styling and layout quite simple, with most screens prompting the user to click on a button or object in the centre of the screen to progress. Both symbols and words were used to convey the action the user should take, making the app simple to navigate, especially for younger users.
+
+### Sitemap
 
 ## Trello screenshots
 
