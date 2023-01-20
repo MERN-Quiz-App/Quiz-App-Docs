@@ -222,7 +222,7 @@ The majority of text on the website is black text on a white background which is
 
 Coblis, a free online tool at color-blindness.com, was used to see how the website would look for people with the most common colour blindness - red/green. The text still maintained a high contrast against the background colours and was still easy to read.
 
-![Screenshots of results of colour blindness checker](docs/protanopia-deuteranopia-screenshots.png)
+![Screenshots of results of colour blindness tool](docs/protanopia-deuteranopia-screenshots.png)
 
 We kept the styling and layout quite simple, with most screens prompting the user to click on a button or object in the centre of the screen to progress. Both symbols and words were used to convey the action the user should take, making the app simple to navigate, especially for younger users.
 
@@ -296,7 +296,7 @@ The user login page prompts the user to enter their email address and password t
 
 ![User login](docs/Login-wireframe.png)
 
-#### User sign up
+### User sign up
 
 The sign up page is a form which takes the users information and is used to create their profile. At this point if the user decides they want to sign up later, they can press the 'back' button and go to the home page. Or once they have filled in the form they can press the 'save profile' button and they will be sent to their profile page.
 
