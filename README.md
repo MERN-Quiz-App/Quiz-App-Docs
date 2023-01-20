@@ -216,7 +216,7 @@ Prepare the initial data for the quiz application for testing purposes.
 
 For the colour scheme we chose orange, black and white as the main colours. Orange is associated with energy, optimism and excitement. The quiz application is primarily aimed at a young audience and those who like to play quizzes for fun, using a bright colour like orange conveys the message that the app is a fun environment to learn in and challenge yourself. However the design is still stylish, to appeal to all ages.
 
-![Website colour palette](docs/quiz-app-main-colours.png)
+![Website colour palette](docs/quiz-app-main-colours-adjusted.png)
 
 The majority of text on the website is black text on a white background which is a very high contrast ratio (21:1) and therefore easy to read at most sizes. The next most common text is black text on a dark orange background, which according to Adobe's colour accessibility tools is also a high contrast ratio (6.21:1) and clearly readable at most sizes.
 
@@ -236,7 +236,7 @@ The sitemap shows the layout of the website when navigated by a general user. Th
 
 ### Home page
 
-The home page will display a large image or logo with the name of the app as well as having some featured quizzes to encourage the user to click on a quiz and get started with using the app straight away. The site is easy to navigate with a menu bar that scrolls up and down with the user. The bottom menu bar is fixed to the bottom of the page and contains copyright information as will as a link to contact us with any suggestions for improvements.
+The home page will display a large image or logo with the name of the app as well as having some featured quizzes to encourage the user to click on a quiz and get started with using the app straight away. The site is easy to navigate with a menu bar that scrolls up and down with the user. On the far left side of the menu bar is a clickable logo that allows the user to return to the home page. The bottom menu bar is fixed to the bottom of the page and contains copyright information as will as a link to contact us with any suggestions for improvements.
 
 ![Home page](docs/Home-page-wireframe.png)
 
