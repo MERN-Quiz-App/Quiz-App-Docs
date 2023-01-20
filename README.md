@@ -234,6 +234,8 @@ The sitemap shows the layout of the website when navigated by a general user. Th
 
 ## Wireframes
 
+Figma was used to design and plan wireframes for features of the application.
+
 ### Home page
 
 The home page will display a large image or logo with the name of the app as well as having some featured quizzes to encourage the user to click on a quiz and get started with using the app straight away. The site is easy to navigate with a menu bar that scrolls up and down with the user. On the far left side of the menu bar is a clickable logo that allows the user to return to the home page. The bottom menu bar is fixed to the bottom of the page and contains copyright information as will as a link to contact us with any suggestions for improvements.
@@ -326,7 +328,13 @@ A page only accessible to admin users, where they can edit or delete a category.
 
 ![Admin edit/delete a category page](docs/Admin-edit-delete-category-wireframe.png)
 
-## Trello screenshots
+## Planning methodology
+
+We chose to use agile methodology to manage our project, using a Trello board to keep track of tasks and allocate them to members of the team. The tasks to be completed during each sprint were decided at the beginning of the sprint, allowing the team to plan their time accordingly and be used as a measure of whether they are on track. The workload is broken down into individual tasks or features, which are placed within a card on the Trello board. Each card has sprint checklists of tasks to do in order to complete that feature, are given a difficulty level depending on the time or technical skills required to complete them and a completion date.
+
+Tasks are assigned to at least one team member depending on the difficulty of the task and taking into account the team members abilities, preferences, weaknesses and how much time they are able to commit during that sprint. Meetings are aimed to be held daily to check in on progress with tasks and to gain feedback and help from the rest of the team. When meetings cannot be held, daily updates are shared in the group Discord. Documentation such as meeting notes are also saved within the board for easy reference.
+
+The Trello board can be viewed at <https://trello.com/b/8A98I9sW/mern-quiz-app>.
 
 ## TECH STACK
 ### Front-end
