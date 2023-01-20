@@ -172,71 +172,7 @@ Challenges :
 </details>
 
 
-### USER STORY : Application Architecture Diagram (MVP)
 
-Create a visual representation of the various components, modules, and interfaces that make up a software application and how they interact with each other. The AAD will include elements such as the user interface, business logic, data storage, and external systems and services.
-
-### USER STORY : Create Wire frame (MVP)
-
-Create a low-fidelity, visual representation of a user interface (UI) design, typically used during the early stages of the design process. The wireframe will be a simple, blueprint-like representation of the layout and functionality of a website or application, showing the placement of elements such as text, images, and buttons
-
-### USER STORY : Environment setup (MVP)
-
-Setting up the environment for project. Including the git repo, installing the dependecies etc.
-
-### USER STORY : Log-in
-<details>
-
-* As a user, I want to have the ability to login to the Quiz application by passing my username and password.
-* As a user, I want to have the ability to be denied access to the Quiz application when I try to login with incorrect credentials.
-
-</details>
-
-### USER STORY : Route:Quiz Data Preparation (MVP)
-
-Prepare the initial data for the quiz application for testing purposes.
-
-### USER STORY : Route:Take a Quiz (MVP)
-<details>
-
-* As a user, I want to be able to explore multiple categories of quizzes
-* As a user, I want to have the ability to take quizzes from any chosen category.
-* As a user, I want to have the ability to see the time countdown for completing each quiz question.
-* As a user, I want to have the ability to submit each questions before the time countdown completes.
-* As a user, I want to have the ability to have the quiz questions to be submited automatically when the time countdown becomes zero.
-* As a user, I want to have the ability to see the result of the quiz attempt.
-
-</details>
-
-### USER STORY : Route:Create Quiz Category
-<details>
-
-* As a user, I want to have the the ability to create new quiz category.
-* As a user, I want to have the ability to upload a category image to set against the new quiz category created.
-
-</details>
-
-### USER STORY : Route:Create Quiz Questions
-<details>
-
-* As a user, I want to have the ability to create new quiz questions for existing categories.
-* As a user, I want to have the ability to create new quiz questions for new categories created.
-
-</details>
-
-### USER STORY : Route:Quiz Leaderboard & Stats
-<details>
-
-* As a user who has logged in, I want to have the ability to view the leaderboard and stats of my quiz performance.
-
-</details>
-
-### USER STORY : Pop up messages for Quiz wins
-<details>
-
-* As a user, I want to have the ability to get badges or pop messages as a way to celebrate the winning of quiz challenge.
-
-</details>
 
 ## Dataflow diagram
 ![Dataflow diagram](docs/Dataflow%20diagram.jpg)
