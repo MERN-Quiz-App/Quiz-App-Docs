@@ -243,3 +243,5 @@ Prepare the initial data for the quiz application for testing purposes.
 * Visual Studio Code
 ### Design Tools
 * Figma
+* Coblis 
+* Adobe
