@@ -330,9 +330,25 @@ A page only accessible to admin users, where they can edit or delete a category.
 
 ## Planning methodology
 
-We chose to use agile methodology to manage our project, using a Trello board to keep track of tasks and allocate them to members of the team. The tasks to be completed during each sprint were decided at the beginning of the sprint, allowing the team to plan their time accordingly and be used as a measure of whether they are on track. The workload is broken down into individual tasks or features, which are placed within a card on the Trello board. Each card has sprint checklists of tasks to do in order to complete that feature, are given a difficulty level depending on the time or technical skills required to complete them and a completion date.
+We chose to use agile methodology to manage our project, using a Trello board to keep track of tasks and allocate them to members of the team.
+
+![Initial planning in Trello](docs/13-01-23-Initial-planning-SPRINT1.png)
+
+The tasks to be completed during each sprint were decided at the beginning of the sprint, allowing the team to plan their time accordingly and be used as a measure of whether they are on track.
+
+![Initial planning complete on Trello board](docs/14-01-23-Initial-planning-complete-SPRINT1.png)
+
+The workload is broken down into individual tasks or features, which are placed within a card on the Trello board. Each card has sprint checklists of tasks to do in order to complete that feature, are given a difficulty level depending on the time or technical skills required to complete them and a completion date.
+
+![Individual card with tasks and difficulty level on Trello board](docs/17-01-23-Wireframes-task-in-progress-SPRINT1.png)
+
+![End of sprint 1 progress Trello board](docs/18-01-23-End-of-sprint-SPRINT1.png)
 
 Tasks are assigned to at least one team member depending on the difficulty of the task and taking into account the team members abilities, preferences, weaknesses and how much time they are able to commit during that sprint. Meetings are aimed to be held daily to check in on progress with tasks and to gain feedback and help from the rest of the team. When meetings cannot be held, daily updates are shared in the group Discord. Documentation such as meeting notes are also saved within the board for easy reference.
+
+![Trello board partway through sprint 2](docs/20-01-23-Partway-through-SPRINT2.png)
+
+![Completed Trello board after sprint 2](docs/20-01-23-end-of-SPRINT2.png)
 
 The Trello board can be viewed at <https://trello.com/b/8A98I9sW/mern-quiz-app>.
 
