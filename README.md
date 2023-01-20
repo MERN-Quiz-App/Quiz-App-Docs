@@ -9,11 +9,11 @@
 
 ## PURPOSE
 There are three main purposes of this application: 
-1. To provide a fun way to learn new things on a wide range of topics. It's been proven that children (and adults) learn better when they are having fun and happy. Therefore, the application is an effort to encourage learning at all ages.  
+1. The application's first purpose is an education tool to help people learn a fun way. Therefore, the application is an effort to encourage learning for all ages.  
    
-2. To be used as a tool for teaching and assessment. This application is suitable to use in a classroom because its topics can be added, and there is no limits. It is another tool for teachers to make their lessons more interactive and interesting. 
+2. To be used as a resource for teaching and assessment. This application is suitable to use in a classroom to make lessons interactive and interesting. Features such as creating new quizzes under different categories can make the learning experience more customisable.
    
-3. At the end of the day, the application is a game, so it aims to entertain. The user/player can use it as a light-hearted way to wind down, or tas a challenge to their friends.
+3. At the end of the day, the application is a game, so it aims to entertain. The user/player can use it as a light-hearted way to wind down, or as a challenge to their friends.
 
 
 ## FUNCTIONALITY/FEATURES
@@ -33,23 +33,24 @@ MVP features and functionalities
   - Create a new category
   - Specify the number of questions in a quiz
   - Add questions and answers
-  - Save and exit when finish
+  - Save and exit when finished
   - Quit any time
 
 * Edit a quiz:
   - Delete an entire quiz with all its questions and answers
   - Add, edit, delete questions
   - Add, edit, delete answers
-  - Save and exit when finish
+  - Save and exit when finished
 
 Nice-to-haves:
 * Change timer duration for individual question
 * User portal
   - Sign in
+  - Edit user's information
   - Delete account
 * Authorization 
   - Only registered users can create a new quiz 
-  - Only admins and the quiz creator can edit the quiz
+  - Only admins and the quiz creator can edit or delete the quiz
 * Sign up  
  - Sign up with a valid email address and password
 * Leaderboard  
@@ -60,18 +61,88 @@ Nice-to-haves:
 * Students who want to practise knowledge learned in class or to prepare for a test
 * Teachers who want a fun way to teach or to assess students' knowledge (i.e. homework and tests)
 
-
 ## USER STORIES
 ## STAGE 1
-### TARGET AUDIENCE :
 <details>
 
 <summary><strong>1. General Users of Quiz App</strong></summary>
 
-* As a general user of the quiz app, I want to be able to play fasinating quizzes.
+* As a general user of the quiz app, I want to be able to play fascinating quizzes on multiple topics.
+</details>
+
+<details>
+
+<summary><strong>2. Quiz enthusiasts</strong></summary>
+
+* As a quiz enthusiast, I want to be able to play quizzes to enhance my knowlege on various subjects to prepare for quiz competitions and track my performance.
+</details>
+
+<details>
+<summary><strong>3. Students</strong></summary> 
+
+* As a student, I want to be able to play quizzes to practice knowledge learned in class or to prepare for a test in a fun way.
+</details>
+
+<details>
+<summary><strong>4. Teachers</strong></summary>
+
+* As a teacher, I want to be able to create new quiz questions for my class students to study and revise their lessons in an entertaining and less stressful way.
+</details>
+   
+## STAGE 2
+### USER PERSONAS :
+To better understand our target audience User Personas were created so that we could learn more about the goals and needs of our users. The below details were consolidated upon consulting with the the target audience on their goal and experiences in achieving their goals. 
+
+#### Quiz enthusiasts
+  
+Goals :
+- Being a quiz enthusiast, I am always looking for every opportunity to learn new things and practice my knowledge.
+- I always want to challenge myself and have constant checks on my knowledge level.
+- I always wanted to exhibit my knowledge on various subjects by creating Quiz an challege others.
+- It is always exhilarating to compete against other quiz enthusists.
+- I wanted to have an app which is free and simple to use. 
+
+Challenges :
+- It has been very difficult to get a proper application where I can do my practice quiz and check my level of knowledge.
+- Most applications which are currently available are complicated and paid ones. 
+- There are very less options currently available where I can create my own quizzes.  
+
+#### Students 
+  
+Goals :
+- As a student, I am always keen to gain my knowledge on various school subject and also revise as part exam prep.
+- It is great to have a place where I can compete with the schoolmates and be the best.
+- It would be great to have an application where my teacher can set quizzes for me and this gives an opportunity for me to evaluate myself.
+- I always wanted to learn things in a fun way.
+
+Challenges :
+- The knowledge i get from books are usually tested during exams, the absense of a proper way to test my knowledge regularly, affects my learning and revision. 
+- Showcasing my knowledge and what I have learned from the classes to my teachers are currently only through the periodic exams and assignements.
+  
+#### Teachers 
+  
+Goals :
+- As a teacher, I am always curious about my students learning curve. 
+- I am looking for a platform where I can set up regular challenges and quiz which can help my student in their learning.
+- It is always great to have a place where I can have a constant check if my students are imrpving themselves. 
+
+Challenges :
+- Other that periodic exams and assignments, it is never possible to evaluate my students learning curve.
+- It is always stressful to track and evaluate my students learning, It would be great to have an app that make this easier. 
+  
+
+## Stage 3
+
+<details>
+
+<summary><strong>1. General Users of Quiz App</strong></summary>
+
+* As a general user of the quiz app, I want to be able to play fascinating quizzes.
 * As a general user of the quiz app, I want to be able to explore quizzes from various quiz categories.
 * As a general user of the quiz app, I want to be able to create new quiz questions for existing categories.
 * As a general user of the quiz app, I want to be able to create new quiz categories and questions for the new category of the quiz.
+* As a general user of the quiz app, I want to be able to have the option for editing and deleting the quiz questions.
+* As a general user of the quiz app, I want to be able to create new user profiles. 
 
 </details>
 
@@ -81,6 +152,7 @@ Nice-to-haves:
 
 * As a quiz enthusiast, I want to be able to play quizzes to enhance my knowlege on various subjects to prepare for quiz competitions.
 * As a quiz enthusiast, I want to be able to share my quiz knowledge with other collegues who are interested in quizzes by creating new quiz questions.
+* As a quiz enthusiast, I want to be able to view and track my quiz performances as a leaderboard feature.
 
 </details>
 
@@ -98,44 +170,7 @@ Nice-to-haves:
 * As a teacher, I want to be able to create new quiz questions for my class students to study and revise their lessons. This will help the students to  achieve better scores in exams.
 
 </details>
-   
-## STAGE 2
-### USER PERSONAS :
-To better understand our target audience User Personas were created so that we could learn more about the goals and needs of our users. The below details were consolidated upon consulting with the the target audience on their goal and experiences in achieving their goals. 
 
-#### Quiz enthusiasts
-  
-Goals :
-- Being a quiz enthusiast, I am always looking for every opportunity to learn new things and practice my knowledge.
-- I always want to challenge myself and have constant checks on my knowledge level.
-- I always wanted to exhibit my knowledge on various subjects by creating Quiz an challege others.
-- It is always exhilarating to compete against other quiz enthusists.
-
-Challenges :
-- It has been very difficult to get a proper application where I can do my practice quiz and check my level of knowledge.
-- There are very less options currently available where I can create my own quizzes.  
-
-#### Students 
-  
-Goals :
-- As a student, I am always keen to gain my knowledge on various school subject and also revise as part exam prep.
-- It is great to have a place where I can compete with the schoolmates and be the best.
-- It would be great to have an application where my teacher can set quizzes for me and this gives an opportunity for me to evaluate myself.
-
-Challenges :
-- The knowledge i get from books are usually tested during exams, the absense of a proper way to test my knowledge regularly, affects my learning and revision. 
-- Showcasing my knowledge and what I have learned from the classes to my teachers are currently only through the periodic exams and assignements.
-  
-#### Teachers 
-  
-Goals :
-- As a teacher, I am always curious about my students learning curve. 
-- I am looking for a platform where I can set up regular challenges and quiz which can help my student in their learning.
-- It is always great to have a place where I can have a constant check if my students are imrpving themselves. 
-
-Challenges :
-- Other that periodic exams and assignments, it is never possible to evaluate my students learning curve.
-  
 
 ### USER STORY : Application Architecture Diagram (MVP)
 
