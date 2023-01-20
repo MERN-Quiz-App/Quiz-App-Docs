@@ -220,9 +220,9 @@ For the colour scheme we chose orange, black and white as the main colours. Oran
 
 The majority of text on the website is black text on a white background which is a very high contrast ratio (21:1) and therefore easy to read at most sizes. The next most common text is black text on a dark orange background, which according to Adobe's colour accessibility tools is also a high contrast ratio (6.21:1) and clearly readable at most sizes.
 
-Coblis, a free online tool at color-blindness.com, was used to see how the website would look for people with the most common colour blindness - red/green. The text still maintained a high contrast and was easy to read.
+Coblis, a free online tool at color-blindness.com, was used to see how the website would look for people with the most common colour blindness - red/green. The text still maintained a high contrast against the background colours and was still easy to read.
 
-![](docs/protanopia-website-screenshot.png)
+![Screenshots of results of colour blindness checker](docs/protanopia-deuteranopia-screenshots.png)
 
 We kept the styling and layout quite simple, with most screens prompting the user to click on a button or object in the centre of the screen to progress. Both symbols and words were used to convey the action the user should take, making the app simple to navigate, especially for younger users.
 
