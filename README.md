@@ -99,7 +99,7 @@ Goals :
 - Being a quiz enthusiast, I am always looking for every opportunity to learn new things and practice my knowledge.
 - I always want to challenge myself and have constant checks on my knowledge level.
 - I always wanted to exhibit my knowledge on various subjects by creating Quiz an challege others.
-- It is always exhilarating to compete against other quiz enthusists.
+- It is always exhilarating to compete against other quiz enthusiasts.
 - I wanted to have an app which is free and simple to use. 
 
 Challenges :
@@ -117,18 +117,18 @@ Goals :
 
 Challenges :
 - The knowledge i get from books are usually tested during exams, the absense of a proper way to test my knowledge regularly, affects my learning and revision. 
-- Showcasing my knowledge and what I have learned from the classes to my teachers are currently only through the periodic exams and assignements.
+- Showcasing my knowledge and what I have learned from the classes to my teachers are currently only through the periodic exams and assignment.
   
 #### Teachers 
   
 Goals :
 - As a teacher, I am always curious about my students learning curve. 
 - I am looking for a platform where I can set up regular challenges and quiz which can help my student in their learning.
-- It is always great to have a place where I can have a constant check if my students are imrpving themselves. 
+- It is always great to have a place where I can have a constant check if my students are improving themselves. 
 
 Challenges :
 - Other that periodic exams and assignments, it is never possible to evaluate my students learning curve.
-- It is always stressful to track and evaluate my students learning, It would be great to have an app that make this easier. 
+- It is always stressful to evaluate my students learning, It would be great to have an app that make this easier. 
   
 
 ## Stage 3
