@@ -1,11 +1,6 @@
 # T3A2 - Full Stack App - Quiz App
-
-[Netlify Link]()
     
-[github repo]()
-
-[Youtube link]()
-
+[github repo](https://github.com/MERN-Quiz-App)
 
 ## PURPOSE
 There are three main purposes of this application: 
@@ -141,7 +136,7 @@ Challenges :
 * As a general user of the quiz app, I want to be able to explore quizzes from various quiz categories.
 * As a general user of the quiz app, I want to be able to create new quiz questions for existing categories.
 * As a general user of the quiz app, I want to be able to create new quiz categories and questions for the new category of the quiz.
-* As a general user of the quiz app, I want to be able to have the option for editing and deleting the quiz questions.
+* As a general user of the quiz app, I want to be able to have the option for deleting or editing the quizzes I have made and the quiz questions within them
 * As a general user of the quiz app, I want to be able to create new user profiles. 
 
 </details>
